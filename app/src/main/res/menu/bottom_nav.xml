@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Antara"
+        android:id="@+id/antaraFragment"
+        android:icon="@drawable/ic_baseline_topic_24"/>
+    <item android:title="Cnbc"
+        android:id="@+id/cnbcFragment"
+        android:icon="@drawable/ic_baseline_topic_24"/>
+    <item android:title="Cnn"
+        android:id="@+id/cnnFragment"
+        android:icon="@drawable/ic_baseline_topic_24"/>
+</menu>
